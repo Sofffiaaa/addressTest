@@ -40,8 +40,7 @@ public class Building {
                 "city='" + city + '\'' +
                 ", street='" + street + '\'' +
                 ", house='" + house + '\'' +
-                ", floor='" + floor + '\'' +
-                '}';
+                ", floor='" + floor;
     }
 
 }
